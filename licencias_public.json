@@ -2,6 +2,17 @@
   "licencias": [
     {
       "Programa": "FacturadorFacil",
+      "Cliente": "MI PC ESCRITORIO",
+      "MachineId": "FD64419F221B5550",
+      "Tipo": "Anual",
+      "FechaCreacion": "2026-06-14T00:00:00",
+      "FechaVencimiento": "2027-06-14T00:00:00",
+      "Firma": "1C7512101EBABF991E57D5180B46F28B1AC8B196490C337C577899005A1D9BB6",
+      "Activa": true,
+      "Estado": "Activa"
+    },
+    {
+      "Programa": "FacturadorFacil",
       "Cliente": "Emiliano Raffin",
       "MachineId": "64F3C891ADACA7D3",
       "Tipo": "Vitalicia",
