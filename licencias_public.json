@@ -1,3 +1,15 @@
 {
-  "licencias": []
+  "licencias": [
+    {
+      "Programa": "FacturadorFacil",
+      "Cliente": "Emiliano Raffin",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-06-14T00:00:00",
+      "FechaVencimiento": null,
+      "Firma": "6467BC0D046256518133FEE41D02D8223493F7A5A84F9A67863101A32C820B88",
+      "Activa": true,
+      "Estado": "Activa"
+    }
+  ]
 }
