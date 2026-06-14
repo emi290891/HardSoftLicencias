@@ -10,17 +10,6 @@
       "Firma": "109CF62B4E74E80E71841A50E57E8DB3DF7D7DD3A865119533B5FCB13BB8E1D7",
       "Activa": true,
       "Estado": "Activa"
-    },
-    {
-      "Programa": "FacturadorFacil",
-      "Cliente": "Emiliano Raffin",
-      "MachineId": "64F3C891ADACA7D3",
-      "Tipo": "Anual",
-      "FechaCreacion": "2026-06-14T00:00:00",
-      "FechaVencimiento": "2027-06-14T00:00:00",
-      "Firma": "82AE8344031EEF9456A4909FE704C04A7F2B00D2F49332321D992607C0ED6E07",
-      "Activa": true,
-      "Estado": "Activa"
     }
   ]
 }
