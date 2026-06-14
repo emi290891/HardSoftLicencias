@@ -10,6 +10,17 @@
       "Firma": "",
       "Activa": true,
       "Estado": "Activa"
+    },
+    {
+      "Programa": "FacturadorFacil",
+      "Cliente": "Eliana Raffin",
+      "MachineId": "54f6g5h4fgfg",
+      "Tipo": "Anual",
+      "FechaCreacion": "2026-06-13T00:00:00",
+      "FechaVencimiento": "2027-06-14T00:00:00",
+      "Firma": "",
+      "Activa": true,
+      "Estado": "Activa"
     }
   ]
 }
