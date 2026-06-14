@@ -2,12 +2,12 @@
   "licencias": [
     {
       "Programa": "FacturadorFacil",
-      "Cliente": "Eliana Raffin",
-      "MachineId": "54f6g5h4fgfg",
+      "Cliente": "Emiliano Raffin",
+      "MachineId": "64F3C891ADACA7D3",
       "Tipo": "Anual",
-      "FechaCreacion": "2026-06-13T00:00:00",
+      "FechaCreacion": "2026-06-14T00:00:00",
       "FechaVencimiento": "2027-06-14T00:00:00",
-      "Firma": "",
+      "Firma": "82AE8344031EEF9456A4909FE704C04A7F2B00D2F49332321D992607C0ED6E07",
       "Activa": true,
       "Estado": "Activa"
     }
