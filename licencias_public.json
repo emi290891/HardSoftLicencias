@@ -2,34 +2,12 @@
   "licencias": [
     {
       "Programa": "FacturadorFacil",
-      "Cliente": "Eliana Raffin",
+      "Cliente": "ELIANA RAFFIN",
       "MachineId": "C54ACA73A0DD5CF0",
       "Tipo": "Anual",
-      "FechaCreacion": "2026-06-15T00:00:00",
-      "FechaVencimiento": "2027-06-15T00:00:00",
-      "Firma": "839EC188F7AC172D6C7A21EB106103B682E311AB6017F008EDE13370D2FF787B",
-      "Activa": true,
-      "Estado": "Activa"
-    },
-    {
-      "Programa": "FacturadorFacil",
-      "Cliente": "MI PC ESCRITORIO",
-      "MachineId": "FD64419F221B5550",
-      "Tipo": "Anual",
-      "FechaCreacion": "2026-06-14T00:00:00",
-      "FechaVencimiento": "2027-06-14T00:00:00",
-      "Firma": "1C7512101EBABF991E57D5180B46F28B1AC8B196490C337C577899005A1D9BB6",
-      "Activa": true,
-      "Estado": "Activa"
-    },
-    {
-      "Programa": "FacturadorFacil",
-      "Cliente": "Emiliano Raffin",
-      "MachineId": "64F3C891ADACA7D3",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-06-14T00:00:00",
-      "FechaVencimiento": null,
-      "Firma": "6467BC0D046256518133FEE41D02D8223493F7A5A84F9A67863101A32C820B88",
+      "FechaCreacion": "2026-07-12T00:00:00",
+      "FechaVencimiento": "2027-07-12T00:00:00",
+      "Firma": "9AEA7705911ACB042D56D104024FDDBC2A3F15F74B4E528222A60742FFC54A0E",
       "Activa": true,
       "Estado": "Activa"
     }
