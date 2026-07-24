@@ -2,6 +2,17 @@
   "licencias": [
     {
       "Programa": "FacturadorFacil",
+      "Cliente": "MI PC",
+      "MachineId": "FD64419F221B5550",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-07-23T00:00:00",
+      "FechaVencimiento": null,
+      "Firma": "ED0D70E015A8565775CCF0093E11EC119E8F0B9549A461D0E61997FBCE516036",
+      "Activa": true,
+      "Estado": "Activa"
+    },
+    {
+      "Programa": "FacturadorFacil",
       "Cliente": "MI NOTEBOOK",
       "MachineId": "64F3C891ADACA7D3",
       "Tipo": "Vitalicia",
