@@ -2,6 +2,17 @@
   "licencias": [
     {
       "Programa": "CUENTA FACIL",
+      "Cliente": "mi note",
+      "MachineId": "B6D3-C8DD-F98B-A973",
+      "Tipo": "Trial",
+      "FechaCreacion": "2026-08-11T00:00:00",
+      "FechaVencimiento": "2026-09-10T00:00:00",
+      "Firma": "427B6FBA85CA22E20FED460695EADFEB8D8BF594E6C4448E4366F396963F6337",
+      "Activa": true,
+      "Estado": "Activa"
+    },
+    {
+      "Programa": "CUENTA FACIL",
       "Cliente": "GUILLERMO RAFFIN",
       "MachineId": "KJJJH4J98JNF8339",
       "Tipo": "Vitalicia",
