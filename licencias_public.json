@@ -2,12 +2,12 @@
   "licencias": [
     {
       "Programa": "FacturadorFacil",
-      "Cliente": "MI PC",
-      "MachineId": "FD64419F221B5550",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-07-23T00:00:00",
-      "FechaVencimiento": null,
-      "Firma": "ED0D70E015A8565775CCF0093E11EC119E8F0B9549A461D0E61997FBCE516036",
+      "Cliente": "ELIANA RAFFIN",
+      "MachineId": "C54ACA73A0DD5CF0",
+      "Tipo": "Anual",
+      "FechaCreacion": "2026-08-11T00:00:00",
+      "FechaVencimiento": "2027-08-11T00:00:00",
+      "Firma": "9AEA7705911ACB042D56D104024FDDBC2A3F15F74B4E528222A60742FFC54A0E",
       "Activa": true,
       "Estado": "Activa"
     },
@@ -16,7 +16,7 @@
       "Cliente": "MI NOTEBOOK",
       "MachineId": "64F3C891ADACA7D3",
       "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-07-20T00:00:00",
+      "FechaCreacion": "2026-08-11T00:00:00",
       "FechaVencimiento": null,
       "Firma": "BCCB1ABF3553F9DC1A656A9D365E3A114693CC1F4C2DDC9601F4CE99C0630C01",
       "Activa": true,
@@ -24,12 +24,12 @@
     },
     {
       "Programa": "FacturadorFacil",
-      "Cliente": "ELIANA RAFFIN",
-      "MachineId": "C54ACA73A0DD5CF0",
-      "Tipo": "Anual",
-      "FechaCreacion": "2026-07-12T00:00:00",
-      "FechaVencimiento": "2027-07-12T00:00:00",
-      "Firma": "9AEA7705911ACB042D56D104024FDDBC2A3F15F74B4E528222A60742FFC54A0E",
+      "Cliente": "MI PC",
+      "MachineId": "FD64419F221B5550",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-11T00:00:00",
+      "FechaVencimiento": null,
+      "Firma": "ED0D70E015A8565775CCF0093E11EC119E8F0B9549A461D0E61997FBCE516036",
       "Activa": true,
       "Estado": "Activa"
     }
