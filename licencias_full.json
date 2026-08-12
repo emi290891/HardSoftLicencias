@@ -20,7 +20,7 @@
       "FechaCreacion": "2026-08-11T00:00:00",
       "FechaVencimiento": "2027-08-11T00:00:00",
       "Firma": "3DDCF96D6364554E2C561E6D3A54812857544552BEDBF91BA77D0D303BBDC115",
-      "Activa": true,
+      "Activa": false,
       "Estado": "Activa",
       "Id": "337f3e23"
     },
