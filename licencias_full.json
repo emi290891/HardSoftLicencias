@@ -35,6 +35,17 @@
       "Activa": true,
       "Estado": "Activa",
       "Id": "55166459"
+    },
+    {
+      "Id": "2bc66a20",
+      "Programa": "StockSimple",
+      "Cliente": "MI NOTEBOOK",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Trial",
+      "FechaCreacion": "2026-08-12T12:59:44.494752",
+      "FechaVencimiento": "2026-09-11T12:59:44.494752",
+      "Firma": "EB888BC53C79159B8EBE3EF9BFAB75B654DEBC20C269DF95432B28E7E3A047DB",
+      "Activa": true
     }
   ]
 }
