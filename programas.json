@@ -1,6 +1,7 @@
 {
   "programas": [
+    "CuentaFacil",
     "FacturadorFacil",
-    "CuentaFacil"
+    "StockSimple"
   ]
 }
