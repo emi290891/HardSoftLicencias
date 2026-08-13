@@ -1,6 +1,18 @@
 {
   "licencias": [
     {
+      "Programa": "CuentaFacil",
+      "Cliente": "mi note",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-11T00:00:00",
+      "FechaVencimiento": "2027-08-12T22:02:47.716394",
+      "Firma": "68E2DDDEF439D890323C5513F7959BCA662D5321466898BF9A8CD28F380322A1",
+      "Activa": true,
+      "Estado": "Activa",
+      "Id": "915eb688"
+    },
+    {
       "Programa": "FacturadorFacil",
       "Cliente": "MI PC MSI",
       "MachineId": "8A6B898299F088AF",
