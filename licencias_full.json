@@ -11,17 +11,6 @@
       "Activa": true,
       "Estado": "Activa",
       "Id": "55166459"
-    },
-    {
-      "Id": "d1295c24",
-      "Programa": "FacturadorFacil",
-      "Cliente": "mi note",
-      "MachineId": "2659385AD384E1F9",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-08-12T15:10:53.043466",
-      "FechaVencimiento": null,
-      "Firma": "C9BFC98DAB30CE4579CC076D5EC97FE123266647038681FF0688B54075F97C05",
-      "Activa": true
     }
   ]
 }
