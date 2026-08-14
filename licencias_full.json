@@ -11,6 +11,17 @@
       "Activa": true,
       "Estado": "Activa",
       "Id": "55166459"
+    },
+    {
+      "Id": "c23934e1",
+      "Programa": "CuentaFacil",
+      "Cliente": "Emiliano Raffin MI PC",
+      "MachineId": "78193844CF93FFD2",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-14T01:25:40.588868",
+      "FechaVencimiento": null,
+      "Firma": "87464A00C76CED0BD20C167D0E671616E66DF17D8CAF888D0BAB682B8E1B9D0F",
+      "Activa": true
     }
   ]
 }
