@@ -57,17 +57,6 @@
       "FechaVencimiento": null,
       "Firma": "C9BFC98DAB30CE4579CC076D5EC97FE123266647038681FF0688B54075F97C05",
       "Activa": true
-    },
-    {
-      "Id": "bc89bcc0",
-      "Programa": "CuentaFacil",
-      "Cliente": "MI PC MSI",
-      "MachineId": "8A6B898299F088AF",
-      "Tipo": "Anual",
-      "FechaCreacion": "2026-08-14T01:16:02.471389",
-      "FechaVencimiento": "2027-08-14T01:16:02.471389",
-      "Firma": "8DDD9319F065D45C6B95BC581949B65E6F8F2BBAC7F51CD5766D91B75C5E58BC",
-      "Activa": true
     }
   ]
 }
