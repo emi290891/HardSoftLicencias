@@ -33,6 +33,17 @@
       "FechaVencimiento": null,
       "Firma": "F2E1DA577D2122EEB2944D398EA0379A62B27A8B1EC3BAA485B6FC8C04E98D3A",
       "Activa": true
+    },
+    {
+      "Id": "44c868f0",
+      "Programa": "CuentaFacil",
+      "Cliente": "Emiliano note ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-14T11:40:56.778925",
+      "FechaVencimiento": null,
+      "Firma": "2E723B8305615A859360BFB6E2AF13279F8E26E06AAF5F28F2C7B2152EB766E7",
+      "Activa": true
     }
   ]
 }
