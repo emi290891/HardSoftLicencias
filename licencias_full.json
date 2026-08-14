@@ -22,6 +22,17 @@
       "FechaVencimiento": null,
       "Firma": "87464A00C76CED0BD20C167D0E671616E66DF17D8CAF888D0BAB682B8E1B9D0F",
       "Activa": true
+    },
+    {
+      "Id": "46203133",
+      "Programa": "FacturadorFacil",
+      "Cliente": "Emiliano Raffin MI PC",
+      "MachineId": "FD64419F221B5550",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-14T01:26:51.287923",
+      "FechaVencimiento": null,
+      "Firma": "F2E1DA577D2122EEB2944D398EA0379A62B27A8B1EC3BAA485B6FC8C04E98D3A",
+      "Activa": true
     }
   ]
 }
