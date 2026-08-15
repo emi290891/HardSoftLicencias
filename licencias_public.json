@@ -44,6 +44,17 @@
       "FechaVencimiento": null,
       "Firma": "2E723B8305615A859360BFB6E2AF13279F8E26E06AAF5F28F2C7B2152EB766E7",
       "Activa": true
+    },
+    {
+      "Id": "43de1a33",
+      "Programa": "StockSimple",
+      "Cliente": "Emiliano Raffin MI PC",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-15T04:04:04.519286",
+      "FechaVencimiento": null,
+      "Firma": "79B7E093F2BE2657B92E17E0D7A446AB278164800ADE95BB596DBDC0610FE56B",
+      "Activa": true
     }
   ]
 }
