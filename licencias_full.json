@@ -55,6 +55,17 @@
       "FechaVencimiento": null,
       "Firma": "79B7E093F2BE2657B92E17E0D7A446AB278164800ADE95BB596DBDC0610FE56B",
       "Activa": true
+    },
+    {
+      "Id": "d1778e19",
+      "Programa": "CuentaFacil",
+      "Cliente": "GUILLERMO RAFFIN",
+      "MachineId": "A13ACC0EE50199A3",
+      "Tipo": "Trial",
+      "FechaCreacion": "2026-08-16T23:19:34.208047",
+      "FechaVencimiento": "2026-09-15T23:19:34.208047",
+      "Firma": "86EFF5705236B6D76D99994475053901E7D99A9F989D11E3673C779F32A18661",
+      "Activa": true
     }
   ]
 }
