@@ -77,6 +77,17 @@
       "FechaVencimiento": null,
       "Firma": "D496E98D45464F13BF73267FA0BA26061C3CD8F50B60C9381079EA88EB4365FC",
       "Activa": true
+    },
+    {
+      "Id": "bdb200c0",
+      "Programa": "FacturadorLite",
+      "Cliente": "Emiliano Raffin NOTE ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-17T04:29:01.306252",
+      "FechaVencimiento": null,
+      "Firma": "9823CBD21C7977EE9B8B8F1F0DDE567EC6D0A6905A39C3DBDC45269F823F8D99",
+      "Activa": true
     }
   ]
 }
