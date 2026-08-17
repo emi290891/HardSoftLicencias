@@ -66,6 +66,17 @@
       "FechaVencimiento": "2026-09-15T23:19:34.208047",
       "Firma": "86EFF5705236B6D76D99994475053901E7D99A9F989D11E3673C779F32A18661",
       "Activa": true
+    },
+    {
+      "Id": "ba901897",
+      "Programa": "FacturadorLite",
+      "Cliente": "Emiliano Raffin MI PC",
+      "MachineId": "78193844CF93FFD2",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-08-17T03:12:23.789943",
+      "FechaVencimiento": null,
+      "Firma": "D496E98D45464F13BF73267FA0BA26061C3CD8F50B60C9381079EA88EB4365FC",
+      "Activa": true
     }
   ]
 }
