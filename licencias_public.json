@@ -88,6 +88,17 @@
       "FechaVencimiento": null,
       "Firma": "9823CBD21C7977EE9B8B8F1F0DDE567EC6D0A6905A39C3DBDC45269F823F8D99",
       "Activa": true
+    },
+    {
+      "Id": "db0c18c3",
+      "Programa": "FacturadorLite",
+      "Cliente": "ELIANA RAFFIN",
+      "MachineId": "C54ACA73A0DD5CF0",
+      "Tipo": "Anual",
+      "FechaCreacion": "2026-08-18T21:10:28.374274",
+      "FechaVencimiento": "2027-08-18T21:10:28.374274",
+      "Firma": "83BC8AF2DD97F0561FA1066540D82185A699C8AEF6CEA4335ADE0704E6A0B640",
+      "Activa": true
     }
   ]
 }
