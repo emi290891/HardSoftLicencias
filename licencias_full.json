@@ -87,6 +87,17 @@
       "FechaVencimiento": "2027-08-18T21:10:28.374274",
       "Firma": "83BC8AF2DD97F0561FA1066540D82185A699C8AEF6CEA4335ADE0704E6A0B640",
       "Activa": true
+    },
+    {
+      "Id": "e5208d56",
+      "Programa": "FacturadorLite",
+      "Cliente": "ANTONELA VENTURINI",
+      "MachineId": "822824CCAE8173DD",
+      "Tipo": "Anual",
+      "FechaCreacion": "2026-08-19T00:32:39.683337",
+      "FechaVencimiento": "2027-08-19T00:32:39.683337",
+      "Firma": "FDC942A7A2A777C01B430F26EAA9E18E6DF684FACB413A84D6D3271CB22B9D62",
+      "Activa": true
     }
   ]
 }
