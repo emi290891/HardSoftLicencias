@@ -2,6 +2,7 @@
   "programas": [
     "CuentaFacil",
     "FacturadorLite",
+    "FacturadorPro",
     "StockSimple"
   ]
 }
