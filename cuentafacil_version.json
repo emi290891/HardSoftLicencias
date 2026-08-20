@@ -1,5 +1,5 @@
 {
   "version": "1.0.7",
-  "url_instalador": "https://github.com/emi290891/HardSoftLicencias/releases/download/v1.0.7/CuentaFacil_Setup.exe",
-  "notas": "cambios en impresion, agregado de etiquestas, boton de cancelar deuda seleccionada."
+  "url_instalador": "https://github.com/emi290891/HardSoftLicencias/releases/download/v1.0.8/CuentaFacil_Setup.exe",
+  "notas": "cambios en las funciones de cancelar deuda seleccionada."
 }
