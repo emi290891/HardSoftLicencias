@@ -98,17 +98,6 @@
       "FechaVencimiento": null,
       "Firma": "96E9D7D423927689EC173118CCBA279674ACF365EDA72FABB70B91B38BF830B3",
       "Activa": true
-    },
-    {
-      "Id": "ff255684",
-      "Programa": "CuentaFacil",
-      "Cliente": "MAQUINA VIRTUAL",
-      "MachineId": "B32BEBA166D963F5",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-08-20T10:27:06.045352",
-      "FechaVencimiento": null,
-      "Firma": "5CE7C2B62C3C573CBE733939F49B65E756C303F2AA4B8DF68E92E5683851A027",
-      "Activa": true
     }
   ]
 }
