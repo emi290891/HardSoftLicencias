@@ -98,17 +98,6 @@
       "FechaVencimiento": null,
       "Firma": "96E9D7D423927689EC173118CCBA279674ACF365EDA72FABB70B91B38BF830B3",
       "Activa": true
-    },
-    {
-      "Id": "91d7a021",
-      "Programa": "CuentaFacil",
-      "Cliente": "GUILLERMO RAFFIN (almacen)",
-      "MachineId": "BC34B3E284A0B820",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-08-29T20:28:33.711368",
-      "FechaVencimiento": null,
-      "Firma": "E7472651D748D17199AAF18922A24C3D652A0694F8A2813003D183B6AA134844",
-      "Activa": true
     }
   ]
 }
