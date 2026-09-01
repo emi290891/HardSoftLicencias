@@ -3,6 +3,7 @@
     "CuentaFacil",
     "FacturadorLite",
     "FacturadorPro",
-    "StockSimple"
+    "StockSimple",
+    "VentaFacil"
   ]
 }
