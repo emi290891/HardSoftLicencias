@@ -109,6 +109,17 @@
       "FechaVencimiento": null,
       "Firma": "E7472651D748D17199AAF18922A24C3D652A0694F8A2813003D183B6AA134844",
       "Activa": true
+    },
+    {
+      "Id": "3e76b731",
+      "Programa": "VentaFacil",
+      "Cliente": "Emiliano note ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-01T14:56:07.590416",
+      "FechaVencimiento": null,
+      "Firma": "67270FE4E442CFEC20B759A22F73FBAF5926E1E112C0DE85BBB7CBA02460DEAE",
+      "Activa": true
     }
   ]
 }
