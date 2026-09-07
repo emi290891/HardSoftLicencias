@@ -67,17 +67,6 @@
       "Activa": true
     },
     {
-      "Id": "20fd72d6",
-      "Programa": "FacturadorPro",
-      "Cliente": "Emiliano raffin MI ASUS",
-      "MachineId": "64F3C891ADACA7D3",
-      "Tipo": "Vitalicia",
-      "FechaCreacion": "2026-08-19T15:45:48.623453",
-      "FechaVencimiento": null,
-      "Firma": "96E9D7D423927689EC173118CCBA279674ACF365EDA72FABB70B91B38BF830B3",
-      "Activa": true
-    },
-    {
       "Id": "8303d653",
       "Programa": "CuentaFacil",
       "Cliente": "GUILLERMO RAFFIN (almacen)",
