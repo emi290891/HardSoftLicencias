@@ -98,6 +98,17 @@
       "FechaVencimiento": null,
       "Firma": "6A503C2B662F86E81ECE696B9B552CEB3704A264E9A528761F24BF77D5FA8BFF",
       "Activa": true
+    },
+    {
+      "Id": "766f0201",
+      "Programa": "FacturadorPro",
+      "Cliente": "EMILIANO RAFFIN ASUS",
+      "MachineId": "8A6B898299F088AF",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-07T00:52:09.504397",
+      "FechaVencimiento": null,
+      "Firma": "7DCF4F31729441E964434F114C4B82CAE00FE58B64FBC26532D2596E8D00F57A",
+      "Activa": true
     }
   ]
 }
