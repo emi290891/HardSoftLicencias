@@ -120,6 +120,17 @@
       "FechaVencimiento": null,
       "Firma": "12BD1AA4978A8752E9390F70BBC90B7AF820A04D6A4E422A57D944C99B12B497",
       "Activa": true
+    },
+    {
+      "Id": "d47f6027",
+      "Programa": "VentaFacil",
+      "Cliente": "EMILIANO RAFFIN ASUS",
+      "MachineId": "8A6B898299F088AF",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-07T00:52:54.279023",
+      "FechaVencimiento": null,
+      "Firma": "2A7E3FE543687746D2601A60943DDFA551D0F39AD0E1468472E99EF4853AE785",
+      "Activa": true
     }
   ]
 }
