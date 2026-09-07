@@ -109,6 +109,17 @@
       "FechaVencimiento": null,
       "Firma": "67270FE4E442CFEC20B759A22F73FBAF5926E1E112C0DE85BBB7CBA02460DEAE",
       "Activa": true
+    },
+    {
+      "Id": "9871d9a9",
+      "Programa": "CuentaFacil",
+      "Cliente": "EMILIANO RAFFIN ASUS",
+      "MachineId": "8A6B898299F088AF",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-07T00:37:06.008158",
+      "FechaVencimiento": null,
+      "Firma": "EBA9CA70E32AA305EEAF4FF174A673DBCE16A13E0550D745B5700ACFCA12C935",
+      "Activa": true
     }
   ]
 }
