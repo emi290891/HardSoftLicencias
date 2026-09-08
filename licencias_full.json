@@ -142,6 +142,17 @@
       "FechaVencimiento": null,
       "Firma": "4554FA2015E029CF79F1AE40993FDA6EED6736183751368A4BBB7C3AD5C24567",
       "Activa": true
+    },
+    {
+      "Id": "4a41a426",
+      "Programa": "CuentaFacil",
+      "Cliente": "ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-08T09:50:48.338086",
+      "FechaVencimiento": null,
+      "Firma": "42EBD6D255D11351E4F4A9938570E54D29DA3FEB9933AF6D986983B1B4C72931",
+      "Activa": true
     }
   ]
 }
