@@ -153,6 +153,17 @@
       "FechaVencimiento": null,
       "Firma": "42EBD6D255D11351E4F4A9938570E54D29DA3FEB9933AF6D986983B1B4C72931",
       "Activa": true
+    },
+    {
+      "Id": "a2e9b0f0",
+      "Programa": "VentaFacil",
+      "Cliente": "ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-08T11:25:44.873492",
+      "FechaVencimiento": null,
+      "Firma": "4BDDC8E05BC22E423A5768563EBFDCE2A709E3FB6EB5337D7A06BC30CAED31DB",
+      "Activa": true
     }
   ]
 }
