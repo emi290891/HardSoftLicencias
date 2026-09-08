@@ -131,6 +131,17 @@
       "FechaVencimiento": null,
       "Firma": "2A7E3FE543687746D2601A60943DDFA551D0F39AD0E1468472E99EF4853AE785",
       "Activa": true
+    },
+    {
+      "Id": "e77edaaa",
+      "Programa": "FacturadorLite",
+      "Cliente": "ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-08T09:48:15.930962",
+      "FechaVencimiento": null,
+      "Firma": "4554FA2015E029CF79F1AE40993FDA6EED6736183751368A4BBB7C3AD5C24567",
+      "Activa": true
     }
   ]
 }
