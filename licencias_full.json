@@ -164,6 +164,17 @@
       "FechaVencimiento": null,
       "Firma": "4BDDC8E05BC22E423A5768563EBFDCE2A709E3FB6EB5337D7A06BC30CAED31DB",
       "Activa": true
+    },
+    {
+      "Id": "36c8d579",
+      "Programa": "FacturadorPro",
+      "Cliente": "ASUS",
+      "MachineId": "64F3C891ADACA7D3",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-09-15T15:31:26.867954",
+      "FechaVencimiento": null,
+      "Firma": "720ABE2023198740DF155161D8A7096BB5A43ED4ABF13189E664AC21A307FBAC",
+      "Activa": true
     }
   ]
 }
