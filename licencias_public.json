@@ -98,6 +98,17 @@
       "FechaVencimiento": null,
       "Firma": "7CEFAEA6CAEE9B4C9A322F171E803A43BF37B54B23E0876352057234452F9955",
       "Activa": true
+    },
+    {
+      "Id": "f815ea2b",
+      "Programa": "CuentaFacil",
+      "Cliente": "MI NOTEBOOK",
+      "MachineId": "556828D76A9DE738",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-10-24T21:43:47.628798",
+      "FechaVencimiento": null,
+      "Firma": "434653681ADCD450F193BB9C60CA8A90CEC76BBEF1F556C1E4728B1175972930",
+      "Activa": true
     }
   ]
 }
