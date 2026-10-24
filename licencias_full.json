@@ -87,6 +87,17 @@
       "FechaVencimiento": null,
       "Firma": "2A7E3FE543687746D2601A60943DDFA551D0F39AD0E1468472E99EF4853AE785",
       "Activa": true
+    },
+    {
+      "Id": "0adbc15c",
+      "Programa": "FacturadorLite",
+      "Cliente": "MI NOTEBOOK",
+      "MachineId": "556828D76A9DE738",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-10-24T21:42:38.621086",
+      "FechaVencimiento": null,
+      "Firma": "7CEFAEA6CAEE9B4C9A322F171E803A43BF37B54B23E0876352057234452F9955",
+      "Activa": true
     }
   ]
 }
