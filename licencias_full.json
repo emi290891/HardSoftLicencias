@@ -109,6 +109,17 @@
       "FechaVencimiento": null,
       "Firma": "434653681ADCD450F193BB9C60CA8A90CEC76BBEF1F556C1E4728B1175972930",
       "Activa": true
+    },
+    {
+      "Id": "ab5fbd8c",
+      "Programa": "FacturadorPro",
+      "Cliente": "MI NOTEBOOK",
+      "MachineId": "556828D76A9DE738",
+      "Tipo": "Vitalicia",
+      "FechaCreacion": "2026-10-24T21:44:19.483501",
+      "FechaVencimiento": null,
+      "Firma": "02C6B6B8E3C477A900AA71B3565B786840DA5CE02CA1C99A7C5A51707FD16A33",
+      "Activa": true
     }
   ]
 }
